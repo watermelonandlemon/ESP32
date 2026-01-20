@@ -1,0 +1,2 @@
+Project Creation Platform: PlatformIO of VSCode
+Project Function Overview: The core focus of this project is the property reporting functionality of the Huawei Cloud IOTDA IoT platform device, using the ADC results as an example for demonstration. This is the first version of the code for the IoT competition in August 2025.
