@@ -1,0 +1,2 @@
+Project Creation Platform: PlatformIO of VSCode
+Project Function Overview: This project is the final version of the ESP32 code before I went to Changchun for the Provincial IoT Competition on August 16, 2025. Please do not modify this code here. The code may contain bugs, so please do not use it arbitrarily. 
